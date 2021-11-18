@@ -1,0 +1,26 @@
+{
+  "name": "terara",
+  "version": "0.0.1",
+  "description": "Generate random writing prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retraigo/terara.git"
+  },
+  "keywords": [
+    "writing"
+  ],
+  "author": "NeTT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retraigo/terara/issues"
+  },
+  "homepage": "https://github.com/retraigo/terara#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4",
+    "lodash": "^4.17.21"
+  }
+}
