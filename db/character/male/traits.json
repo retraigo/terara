@@ -1,0 +1,58 @@
+[
+    {
+        "name": "leader",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "cool",
+        "description": "alpha male"
+    },
+    {
+        "name": "loner",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "low-medium",
+        "adjective": "loner",
+        "description": "loner"
+    },
+    {
+        "name": "adventurous",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "high",
+        "adjective": "adventurous",
+        "description": "adventurous guy"
+    },
+    {
+        "name": "nerd",
+        "reliance": "self",
+        "strength": "medium",
+        "optimism": "medium-high",
+        "adjective": "nerdy",
+        "description": "nerd"
+    },
+    {
+        "name": "mob",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "background",
+        "description": "average guy"
+    },
+    {
+        "name": "femboy",
+        "reliance": "self",
+        "strength": "low",
+        "optimism": "low",
+        "adjective": "feminine",
+        "description": "femboy"
+    },
+    {
+        "name": "macho",
+        "reliance": "love",
+        "strength": "high",
+        "optimism": "low",
+        "adjective": "macho",
+        "description": "macho guy"
+    }
+]
