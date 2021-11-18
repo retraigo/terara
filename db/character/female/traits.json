@@ -1,0 +1,82 @@
+[
+    {
+        "name": "gal",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "cool gal",
+        "description": "gal"
+    },
+    {
+        "name": "loner",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "low-medium",
+        "adjective": "loner",
+        "description": "loner"
+    },
+    {
+        "name": "adventurous",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "high",
+        "adjective": "adventurous",
+        "description": "adventurous girl"
+    },
+    {
+        "name": "nerd",
+        "reliance": "self",
+        "strength": "medium",
+        "optimism": "medium-high",
+        "adjective": "nerdy",
+        "description": "nerd"
+    },
+    {
+        "name": "mob",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "background",
+        "description": "average girl"
+    },
+    {
+        "name": "yandere",
+        "reliance": "love",
+        "strength": "high",
+        "optimism": "low",
+        "adjective": "yandere",
+        "description": "yandere"
+    },
+    {
+        "name": "tsundere",
+        "reliance": "love",
+        "strength": "high",
+        "optimism": "medium",
+        "adjective": "tsundere",
+        "description": "tsundere"
+    },
+    {
+        "name": "tomboy",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "medium",
+        "adjective": "tomboyish",
+        "description": "tomboy"
+    },
+    {
+        "name": "karen",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "high",
+        "adjective": "karen",
+        "description": "karen"
+    },
+    {
+        "name": "cool",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "high",
+        "adjective": "cool",
+        "description": "cool girl"
+    }
+]
