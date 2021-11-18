@@ -1,0 +1,13 @@
+const test = require('./lib/proto')
+
+test()
+test()
+test()
+test()
+test()
+test()
+test()
+test()
+test()
+test()
+test()
