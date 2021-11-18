@@ -1,0 +1,42 @@
+[
+    {
+        "name": "leader",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "cool",
+        "description": "alpha"
+    },
+    {
+        "name": "loner",
+        "reliance": "self",
+        "strength": "high",
+        "optimism": "low-medium",
+        "adjective": "loner",
+        "description": "loner"
+    },
+    {
+        "name": "adventurous",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "high",
+        "adjective": "adventurous",
+        "description": "adventurous"
+    },
+    {
+        "name": "nerd",
+        "reliance": "self",
+        "strength": "medium",
+        "optimism": "medium-high",
+        "adjective": "nerdy",
+        "description": "nerd"
+    },
+    {
+        "name": "mob",
+        "reliance": "group",
+        "strength": "high",
+        "optimism": "medium-high",
+        "adjective": "none",
+        "description": "average"
+    }
+]
